@@ -4,14 +4,15 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.github.jvm-build-service-test-data</groupId>
-    <artifactId>template-maven-single-module</artifactId>
+    <groupId>io.github.jvm-build-service-test-data.maven-external-parent</groupId>
+    <artifactId>maven-external-parent</artifactId>
     <version>1.0</version>
-    <name>Template Maven Single Module</name>
-    <description>A template for single module maven projects</description>
-    <url>https://github.com/jvm-build-service-test-data/template-maven-single-module</url>
+    <name>Maven External Parent</name>
+    <packaging>pom</packaging>
+    <description>The repo is a simple pom only repo that can be used as a parent</description>
+    <url>https://github.com/jvm-build-service-test-data/maven-external-parent</url>
     <scm>
-        <url>https://github.com/jvm-build-service-test-data/template-maven-single-module</url>
+        <url>https://github.com/jvm-build-service-test-data/maven-external-parent</url>
     </scm>
     <licenses>
         <license>

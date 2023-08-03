@@ -1,1 +1,1 @@
-The repo is a template for single module maven test projects.
+The repo is a simple pom only repo that can be used as a parent.
